@@ -2,7 +2,7 @@
 # Bootstrap <br>
 
 
-Projeto feito na Womakers Code..<br>
+Projeto feito na live da Womakers Code..<br>
 
 Linguagens utilizada: Farmework Bootstrap.
 
