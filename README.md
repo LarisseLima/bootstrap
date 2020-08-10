@@ -4,7 +4,7 @@
 
 Projeto feito na live da Womakers Code..<br>
 
-Linguagens utilizada: Farmework Bootstrap.
+Linguagens utilizada: Framework Bootstrap.
 
 
 <img src="img/imagem1.png">
