@@ -1,19 +1,24 @@
 
 
 <h3 align="center">
-     Bootstrap
+    # Bootstrap
 </h3>  
 
+## 💻 Sobre o projeto
 
-Projeto feito na live da Womakers Code..<br>
+Projeto feito com bootstrap na live da Womakers Code.
 
-Linguagens utilizada: Framework Bootstrap.
+## 🛠 Tecnologias
+
+O projeto foi desenvolvido utilizando o framework Bootstrap.
+
+## 🎨 Layout
 
 
 <img src="img/imagem1.png">
 <img src="img/imagem2.png">
 
+---
 
-[ LinkedIn ](https://www.linkedin.com/in/larisselima/)
+Desenvolvido com 💜 por Larisse Lima >>>>> [Linkedin](https://www.linkedin.com/in/larisselima/)
 
-Desenvolvido por Larisse Lima ☕ 
