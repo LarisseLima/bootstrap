@@ -1,7 +1,7 @@
 
 
 <h3 align="center">
-    # Bootstrap
+    Bootstrap
 </h3>  
 
 ## 💻 Sobre o projeto
