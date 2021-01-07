@@ -19,6 +19,5 @@ O projeto foi desenvolvido utilizando o framework Bootstrap.
 <img src="img/imagem2.png">
 
 ---
-
-Desenvolvido com 💜 por Larisse Lima >>>>> [Linkedin](https://www.linkedin.com/in/larisselima/)
+<p align="center"><b>Feito com 	:coffee: <br> por Larisse Lima</b></p>
 
