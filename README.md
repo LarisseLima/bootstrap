@@ -6,7 +6,7 @@
 
 ## 💻 Sobre o projeto
 
-Projeto feito com bootstrap na live da Womakers Code.
+Projeto feito com bootstrap , na  WomakerrCode.
 
 ## 🛠 Tecnologias
 
