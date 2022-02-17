@@ -6,7 +6,7 @@
 
 ## 💻 Sobre o projeto
 
-Projeto feito com bootstrap , na  WomakerrCode.
+Projeto feito para treinos com bootstrap , na  WomakersCode.
 
 ## 🛠 Tecnologias
 
